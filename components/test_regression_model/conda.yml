@@ -10,4 +10,5 @@ dependencies:
       - wandb==0.15.11
       - mlflow==2.7.1
       - protobuf==3.20.*
-      - git+https://github.com/udacity/nd0821-c2-build-model-workflow-starter.git#egg=wandb-utils&subdirectory=components
+      # https://github.com/sakthi-t/build-ml-pipeline-for-short-term-rental-prices.git
+      - git+https://github.com/sakthi-t/build-ml-pipeline-for-short-term-rental-prices.git#egg=wandb-utils&subdirectory=components
